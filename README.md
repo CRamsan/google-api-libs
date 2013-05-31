@@ -32,3 +32,10 @@ The following instructions have been copied from the AppEngine Docs
  * When the installation is complete, Eclipse prompts you to restart. Click Yes. Eclipse restarts. The plugin is installed.
 
 Reference: https://developers.google.com/appengine/docs/java/tools/eclipse
+
+Now your AppEngine should be installed in your home directory, the path 
+usually 
+is: 
+~/.eclipse/org.eclipse.platform_<ECLIPSE_VERSION>/plugins/com.google.appengine.eclipse.sdkbundle_<SDK_VERSION>
+And the path for the GWT plugin would be 
+~/.eclipse/org.eclipse.platform_<ECLIPSE_VERSION>/plugins/com.google.gwt.eclipse.sdkbundle_2.5.1
