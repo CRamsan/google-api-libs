@@ -40,4 +40,5 @@ is:
 And the path for the GWT plugin would be 
 ~/.eclipse/org.eclipse.platform_"ECLIPSE_VERSION"/plugins/com.google.gwt.eclipse.sdkbundle_"SDK_VERSION"
 
-Great! Now you should be able to develop application using the Google App Engine, lets test it to make sure all the components are working.
+Great! Now you should be able to develop application using the Google App Engine, lets test it to make sure all the components are working. Go to the next step 
+2.APPENGINE_TEST

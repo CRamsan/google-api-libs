@@ -1,0 +1,18 @@
+Testing App Engine Localy
+=========================
+
+Now that the SDKs are installed, Java is configured and Eclipse has the plugins, we should be able to do all the next steps from withing eclipse
+
+Sample Project
+==============
+
+ * File -> New -> Project....
+ * Loook for Google and expand it and choose 'Web Application Project' 
+ * Choose a 'Project Name' and Package
+ * The other options should be good for a sample project, make sure 'Generate Project Sample Code' is checked
+ * Click Finish and now the project will be created with some sample code
+ * Now go to the project, open the menu and look for 'Run As' -> 'Web Application'
+
+The application will be deployed locally, this may take some time. You can now follow the process on the Console window. On the 'Development Mode' window will 
+appear a link when the deployment is ready, you can go to the URL and see something. If you see something, then the application is working fine, you might need 
+to install a plugin but this is not required at this moment.
