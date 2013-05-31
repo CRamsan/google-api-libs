@@ -3,6 +3,42 @@
 	<classpathentry kind="src" path="src/main/java"/>
 	<classpathentry kind="src" path="src/main/resources"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
-	<classpathentry kind="output" path="target/classes"/>
 	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER"/>
+	<classpathentry kind="lib" path="/Volumes/Macintosh HD/Users/italianpride15/github/google-api-libs/google-api-java-client/libs/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="/Volumes/Macintosh HD/Users/italianpride15/github/google-api-libs/google-api-java-client/libs/google-api-client-1.15.0-rc.jar"/>
+	<classpathentry kind="lib" path="/Volumes/Macintosh HD/Users/italianpride15/github/google-api-libs/google-api-java-client/libs/google-api-client-android-1.15.0-rc.jar"/>
+	<classpathentry kind="lib" path="/Volumes/Macintosh HD/Users/italianpride15/github/google-api-libs/google-api-java-client/libs/google-api-client-appengine-1.15.0-rc.jar"/>
+	<classpathentry kind="lib" path="/Volumes/Macintosh HD/Users/italianpride15/github/google-api-libs/google-api-java-client/libs/google-api-client-java6-1.15.0-rc.jar"/>
+	<classpathentry kind="lib" path="/Volumes/Macintosh HD/Users/italianpride15/github/google-api-libs/google-api-java-client/libs/google-api-client-servlet-1.15.0-rc.jar"/>
+	<classpathentry kind="lib" path="/Volumes/Macintosh HD/Users/italianpride15/github/google-api-libs/google-api-java-client/libs/google-http-client-1.15.0-rc.jar"/>
+	<classpathentry kind="lib" path="/Volumes/Macintosh HD/Users/italianpride15/github/google-api-libs/google-api-java-client/libs/google-http-client-android-1.15.0-rc.jar"/>
+	<classpathentry kind="lib" path="/Volumes/Macintosh HD/Users/italianpride15/github/google-api-libs/google-api-java-client/libs/google-http-client-appengine-1.15.0-rc.jar"/>
+	<classpathentry kind="lib" path="/Volumes/Macintosh HD/Users/italianpride15/github/google-api-libs/google-api-java-client/libs/google-http-client-gson-1.15.0-rc.jar"/>
+	<classpathentry kind="lib" path="/Volumes/Macintosh HD/Users/italianpride15/github/google-api-libs/google-api-java-client/libs/google-http-client-jackson-1.15.0-rc.jar"/>
+	<classpathentry kind="lib" path="/Volumes/Macintosh HD/Users/italianpride15/github/google-api-libs/google-api-java-client/libs/google-http-client-jackson2-1.15.0-rc.jar"/>
+	<classpathentry kind="lib" path="/Volumes/Macintosh HD/Users/italianpride15/github/google-api-libs/google-api-java-client/libs/google-http-client-protobuf-1.15.0-rc.jar"/>
+	<classpathentry kind="lib" path="/Volumes/Macintosh HD/Users/italianpride15/github/google-api-libs/google-api-java-client/libs/google-oauth-client-1.15.0-rc.jar"/>
+	<classpathentry kind="lib" path="/Volumes/Macintosh HD/Users/italianpride15/github/google-api-libs/google-api-java-client/libs/google-oauth-client-appengine-1.15.0-rc.jar"/>
+	<classpathentry kind="lib" path="/Volumes/Macintosh HD/Users/italianpride15/github/google-api-libs/google-api-java-client/libs/google-oauth-client-java6-1.15.0-rc.jar"/>
+	<classpathentry kind="lib" path="/Volumes/Macintosh HD/Users/italianpride15/github/google-api-libs/google-api-java-client/libs/google-oauth-client-java7-1.15.0-rc.jar"/>
+	<classpathentry kind="lib" path="/Volumes/Macintosh HD/Users/italianpride15/github/google-api-libs/google-api-java-client/libs/google-oauth-client-jetty-1.15.0-rc.jar"/>
+	<classpathentry kind="lib" path="/Volumes/Macintosh HD/Users/italianpride15/github/google-api-libs/google-api-java-client/libs/google-oauth-client-servlet-1.15.0-rc.jar"/>
+	<classpathentry kind="lib" path="/Volumes/Macintosh HD/Users/italianpride15/github/google-api-libs/google-api-java-client/libs/gson-2.1.jar"/>
+	<classpathentry kind="lib" path="/Volumes/Macintosh HD/Users/italianpride15/github/google-api-libs/google-api-java-client/libs/httpclient-4.0.1.jar"/>
+	<classpathentry kind="lib" path="/Volumes/Macintosh HD/Users/italianpride15/github/google-api-libs/google-api-java-client/libs/httpcore-4.0.1.jar"/>
+	<classpathentry kind="lib" path="/Volumes/Macintosh HD/Users/italianpride15/github/google-api-libs/google-api-java-client/libs/jackson-core-2.1.3.jar"/>
+	<classpathentry kind="lib" path="/Volumes/Macintosh HD/Users/italianpride15/github/google-api-libs/google-api-java-client/libs/jackson-core-asl-1.9.11.jar"/>
+	<classpathentry kind="lib" path="/Volumes/Macintosh HD/Users/italianpride15/github/google-api-libs/google-api-java-client/libs/jdo2-api-2.3-eb.jar"/>
+	<classpathentry kind="lib" path="/Volumes/Macintosh HD/Users/italianpride15/github/google-api-libs/google-api-java-client/libs/jetty-6.1.26.jar"/>
+	<classpathentry kind="lib" path="/Volumes/Macintosh HD/Users/italianpride15/github/google-api-libs/google-api-java-client/libs/jetty-util-6.1.26.jar"/>
+	<classpathentry kind="lib" path="/Volumes/Macintosh HD/Users/italianpride15/github/google-api-libs/google-api-java-client/libs/jsr305-1.3.9.jar"/>
+	<classpathentry kind="lib" path="/Volumes/Macintosh HD/Users/italianpride15/github/google-api-libs/google-api-java-client/libs/protobuf-java-2.4.1.jar"/>
+	<classpathentry kind="lib" path="/Volumes/Macintosh HD/Users/italianpride15/github/google-api-libs/google-api-java-client/libs/transaction-api-1.1.jar"/>
+	<classpathentry kind="lib" path="/Volumes/Macintosh HD/Users/italianpride15/github/google-api-libs/google-api-java-client/libs/xpp3-1.1.4c.jar"/>
+	<classpathentry kind="lib" path="/calendar-appengine-sample/.google_apis/calendar-v3r44lv1.14.2-beta/calendar/google-api-services-calendar-v3-rev44-1.14.2-beta.jar" rootpath="/" sourcepath="/calendar-appengine-sample/.google_apis/calendar-v3r44lv1.14.2-beta/calendar/google-api-services-calendar-v3-rev44-1.14.2-beta-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:platform:/resource/calendar-appengine-sample/.google_apis/calendar-v3r44lv1.14.2-beta/calendar/google-api-services-calendar-v3-rev44-1.14.2-beta-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="target/classes"/>
 </classpath>
