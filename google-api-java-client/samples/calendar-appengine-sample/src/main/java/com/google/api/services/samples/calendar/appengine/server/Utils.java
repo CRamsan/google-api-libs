@@ -29,7 +29,6 @@ import com.google.api.services.calendar.CalendarScopes;
 import com.google.appengine.api.users.UserServiceFactory;
 
 import java.io.IOException;
-import java.io.InputStreamReader;
 import java.util.Collections;
 
 import javax.servlet.http.HttpServletRequest;
@@ -52,7 +51,7 @@ class Utils {
   static GoogleClientSecrets getClientCredential() throws IOException {
     if (clientSecrets == null) {
       clientSecrets = GoogleClientSecrets.load(JSON_FACTORY,
-          new InputStreamReader(Utils.class.getResourceAsStream("/client_secrets.json")));
+          (Utils.class.getResourceAsStream("/client_secrets.json")));
       Preconditions.checkArgument(!clientSecrets.getDetails().getClientId().startsWith("Enter ")
           && !clientSecrets.getDetails().getClientSecret().startsWith("Enter "),
           "Download client_secrets.json file from https://code.google.com/apis/console/?api=calendar "
